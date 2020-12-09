@@ -15,6 +15,10 @@ This is an app that allows users to create,comment,edit and submit theblog
 - user login/registration
 - updates to profiles *deletion and addition of posts
 
+## known Bugs
+
+there are none
+
 ## Setup/Installation requirements
 
 1.Clone or download and unzip the repository from github,https://github.com/umedith/Blog
