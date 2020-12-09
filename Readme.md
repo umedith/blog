@@ -25,11 +25,13 @@ there are none
 
 2.You can use this command (git clone my link) to clone the project to your machine if you have git .
 
-3.cd into the project folder and open in text editor. 4. install virtual environment then activate it
+3.cd into the project folder and open in text editor. 
 
-4.Then run chmod +x start.sh on your project directory.
+4. install virtual environment then activate it
 
-5.Run ./start.sh to launch the program.
+5.Then run chmod +x start.sh on your project directory.
+
+6.Run ./start.sh to launch the program.
 
 ## Technologies Used
 
