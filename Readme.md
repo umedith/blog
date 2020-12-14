@@ -35,7 +35,7 @@ there are none
 
 ## live site
 
-visit https://git.heroku.com/eddblog.git for live site
+visit https://eddblog.herokuapp.com for live site
 
 
 ## Technologies Used
