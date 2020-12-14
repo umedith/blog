@@ -33,6 +33,11 @@ there are none
 
 6.Run ./start.sh to launch the program.
 
+## live site
+
+visit https://git.heroku.com/eddblog.git for live site
+
+
 ## Technologies Used
 
 - PYTHON
